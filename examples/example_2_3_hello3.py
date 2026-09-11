@@ -1,5 +1,3 @@
-# Example 2.3 - THE HELLO3.PY PROGRAM
-# Variabel di Python tidak perlu dideklarasikan tipenya dulu
 
 a = 5
 b = 7

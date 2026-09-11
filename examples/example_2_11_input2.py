@@ -1,6 +1,3 @@
-# Example 2.11 - THE INPUT2.PY PROGRAM
-# Membaca angka dari keyboard, lalu mengubahnya jadi integer dengan int()
-# dan menghitung kuadratnya
 
 print('Input a number: ')
 x = input()

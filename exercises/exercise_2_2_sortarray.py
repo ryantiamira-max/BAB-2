@@ -1,9 +1,3 @@
-# Exercise 2.2
-# Soal: Modifikasi program dari Example 2.9 untuk membuat fungsi
-# sortarray(xs) yang mengurutkan array secara ascending (dari kecil ke besar).
-#
-# Di sini pakai algoritma bubble sort sederhana supaya konsisten
-# dengan gaya Example 2.9 (pakai for loop manual, bukan xs.sort() langsung).
 
 def sortarray(xs):
     n = len(xs)

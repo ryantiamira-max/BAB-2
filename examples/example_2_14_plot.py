@@ -1,7 +1,3 @@
-# Example 2.14 - THE PLOT.PY PROGRAM
-# Plot grafik sin(x) menggunakan Matplotlib dan Numpy
-# butuh: pip install matplotlib numpy
-
 import matplotlib.pyplot as plt
 import numpy as np
 

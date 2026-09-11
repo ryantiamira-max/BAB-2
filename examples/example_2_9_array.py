@@ -1,5 +1,3 @@
-# Example 2.9 - THE ARRAY.PY PROGRAM
-# Fungsi untuk mencari nilai maksimum dalam sebuah array (list)
 
 def maxarray(xs):
     m = xs[0]

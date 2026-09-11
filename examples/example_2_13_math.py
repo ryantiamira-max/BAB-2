@@ -1,6 +1,3 @@
-# Example 2.13 - THE MATH.PY PROGRAM
-# Menggunakan library math bawaan Python
-
 import math
 
 r = 5

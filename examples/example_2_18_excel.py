@@ -1,6 +1,3 @@
-# Example 2.18 - THE EXCEL.PY PROGRAM
-# Menyimpan dataframe ke file Excel
-# butuh: pip install xlsxwriter
 
 import pandas as pd
 

@@ -1,6 +1,3 @@
-# Exercise 2.1
-# Soal: Modifikasi program dari Example 2.9 untuk membuat fungsi
-# minarray(xs) yang mencari nilai MINIMUM dari sebuah array.
 
 def minarray(xs):
     m = xs[0]           # anggap dulu elemen pertama sebagai nilai minimum

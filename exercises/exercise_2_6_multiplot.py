@@ -1,10 +1,3 @@
-# Exercise 2.6
-# Soal: Berdasarkan Example 2.14 dan 2.15, buat program yang mem-plot
-# beberapa fungsi matematika sekaligus dalam satu grafik dengan warna
-# berbeda, lengkap dengan legend:
-#   y = 3x + 4
-#   y = 2x^2 + 1
-#   y = x^3 + 9
 
 import numpy as np
 import matplotlib.pyplot as plt

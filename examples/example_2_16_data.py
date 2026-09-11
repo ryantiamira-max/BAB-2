@@ -1,6 +1,3 @@
-# Example 2.16 - THE DATA.PY PROGRAM
-# Membuat dataframe dengan Pandas lalu menyimpannya sebagai file CSV
-# butuh: pip install pandas
 
 import pandas as pd
 

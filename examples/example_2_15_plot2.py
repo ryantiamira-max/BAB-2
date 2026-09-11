@@ -1,6 +1,3 @@
-# Example 2.15 - THE PLOT2.PY PROGRAM
-# Plot sin(x) dan cos(x) sekaligus, dengan warna, marker, dan legend
-
 import numpy as np
 import matplotlib.pyplot as plt
 

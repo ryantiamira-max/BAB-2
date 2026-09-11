@@ -1,7 +1,4 @@
-# Example 2.2 - THE HELLO2.PY PROGRAM
-# Menunjukkan cara menulis komentar di Python:
-# - '#' untuk komentar satu baris
-# - ''' ... ''' untuk komentar banyak baris
+
 
 '''
 This is a multiple line
